@@ -30,5 +30,17 @@ accuracy = st.slider(
     min_value=0.0,
     max_value=2.0,
     value=0.2,
-    step=0.1
+    step = 0.1
 )
+st.write(f"Selected Temperature Of Agent Is: {accuracy}")
+
+temperature = st.number_input("How Many Temperature",min_value = 0.0,
+                              max_value=2.0, step = 0.2)
+st.write(f"Selected Temperature Of Agent Is: {temperature}")
+
+name = st.text_input("Enter You Name")
+if name:
+    st.write(f"Welcome, {name} ! Your Agent Is Ready")
+    
+dob = st.date_input("Select Your DOB")
+st.write(f"Your DOB Is {dob}")
