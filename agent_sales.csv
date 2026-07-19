@@ -1,0 +1,21 @@
+date,city,agent_type,agent_sold,revenue
+2026-01-05,Pune,Customer Support AI,12,180000
+2026-01-08,Mumbai,Sales AI,18,360000
+2026-01-12,Bengaluru,HR AI,10,150000
+2026-01-15,Hyderabad,Marketing AI,15,300000
+2026-01-20,Delhi,Finance AI,9,225000
+2026-02-03,Pune,Coding AI,14,420000
+2026-02-08,Chennai,Chatbot AI,20,400000
+2026-02-12,Mumbai,Customer Support AI,16,240000
+2026-02-18,Bengaluru,Marketing AI,13,260000
+2026-02-24,Delhi,Sales AI,17,340000
+2026-03-02,Hyderabad,Finance AI,11,275000
+2026-03-06,Pune,HR AI,8,120000
+2026-03-10,Chennai,Coding AI,19,570000
+2026-03-15,Mumbai,Chatbot AI,22,440000
+2026-03-21,Bengaluru,Customer Support AI,15,225000
+2026-04-04,Delhi,Marketing AI,21,420000
+2026-04-09,Hyderabad,Sales AI,18,360000
+2026-04-14,Pune,Finance AI,10,250000
+2026-04-20,Chennai,HR AI,12,180000
+2026-04-28,Mumbai,Coding AI,24,720000

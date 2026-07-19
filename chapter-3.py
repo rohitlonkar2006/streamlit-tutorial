@@ -19,7 +19,7 @@ if vote1:
 
 elif vote2:
     st.success("Thanks for Voting summary Agent..!")
-    
+   
 home = st.sidebar.button("Home")
 start = st.sidebar.button("Start")
 pf = st.sidebar.button("Profile")
